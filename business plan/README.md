@@ -1,0 +1,1 @@
+planning phase of a business startup
