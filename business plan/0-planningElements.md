@@ -28,3 +28,19 @@
 9. how your business or industry will evolve
 10. who owns or manages your business
 11. what your short terms and long terms goals are
+
+### 3. product, service and market analysis
+
+1. products and services
+2. market analysis
+3. industry description and outlook ( market trends.)
+4. SWOT analysis
+
+**In this section, you should highlight your business products and services and describe what makes them unique, such as their:**
+
+- features
+- benefits
+- limitations
+- cost and sale price.
+
+Your market analysis should describe your target market (e.g. local, international) and target customers.
