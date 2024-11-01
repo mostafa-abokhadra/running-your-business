@@ -44,3 +44,15 @@
 - cost and sale price.
 
 Your market analysis should describe your target market (e.g. local, international) and target customers.
+
+### 4. market strategy and plan
+
+1. current situation
+2. marketing objectives
+3. target segments
+4. competitor analysis
+5. brand positioning
+6. marketing programs
+7. marketing tactics
+8. key actions
+9. business control
