@@ -56,3 +56,8 @@ Your market analysis should describe your target market (e.g. local, internation
 7. marketing tactics
 8. key actions
 9. business control
+
+### 5. sales
+1. sales strategy
+2. sales analysis and forecast
+3. customer management
