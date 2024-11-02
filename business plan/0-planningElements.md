@@ -1,5 +1,7 @@
 # Business Plan Elements
 
+watch [this](https://youtu.be/SHWqPw2bZa0?si=QMKrXFmlLskFvGEH)
+
 ### 1. Business details
 
 **includes some basic info like**
