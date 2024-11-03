@@ -28,4 +28,5 @@
 1. Reflect on your principles, beliefs and values
     - what do i value in other businesses as an employee and a customer ?
     - what values do i hold that will be core to my business ?
-
+2. Assemble a team of people to work on value creation
+    - you can get help my a mentor, friends and business advisers
