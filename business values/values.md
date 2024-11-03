@@ -25,8 +25,21 @@
 - From a customer viewpoint, these standards demonstrate the business values and outline the type of service they can expect to get when they deal with your business.
 
 ## writing you business values
-1. Reflect on your principles, beliefs and values
+1. **Reflect on your principles, beliefs and values**
     - what do i value in other businesses as an employee and a customer ?
     - what values do i hold that will be core to my business ?
-2. Assemble a team of people to work on value creation
+2. **Assemble a team of people to work on value creation**
     - you can get help my a mentor, friends and business advisers
+3. **Brainstorm your business values**
+    - identify the categories of values that are most suitable for your business. common vategories include
+        - business growth
+        - customer services
+        - decision making
+        - team work
+        - leadership
+        - staff
+        - business culture
+        - social community
+        - environmental sustainability
+    - create impact values which are the values that ouline the positive impact the business can have on others and the environment
+    - it should be simple to the point is more easily recalled by staff and embraced by customers and stakeholders
