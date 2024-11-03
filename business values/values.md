@@ -51,3 +51,6 @@
     - is it relevant to current operations ?
     - will the value help the business reach its identified goals ?
     - will it be relevant in 1, 3 or 5 years ?
+5. **Translate your business values into a set of actions**
+- turning the values into recognisable actions and behaviours that can be measured and monitored 
+- it can be **customer-focused** or **internally-focused**
