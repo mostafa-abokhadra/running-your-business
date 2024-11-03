@@ -19,5 +19,6 @@
 - the business has zero tolerance for bullying and harassment
 - work should be completed on time.
 
-
 ### 3. standards of behaviour
+- it outlines what is acceptable business practice
+- From a customer viewpoint, these standards demonstrate the business values and outline the type of service they can expect to get when they deal with your business.
