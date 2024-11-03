@@ -43,3 +43,11 @@
         - environmental sustainability
     - create impact values which are the values that ouline the positive impact the business can have on others and the environment
     - it should be simple to the point is more easily recalled by staff and embraced by customers and stakeholders
+4. **Reflect on the meaning of each value**
+    - what is this value about ?
+    - will staff and customers easily understand its meaning ?
+    - what assumptions are behind it ?
+    - what other words, ideas or mental images might be associated with it ?
+    - is it relevant to current operations ?
+    - will the value help the business reach its identified goals ?
+    - will it be relevant in 1, 3 or 5 years ?
