@@ -19,7 +19,7 @@ watch [this](https://youtu.be/SHWqPw2bZa0?si=QMKrXFmlLskFvGEH)
 
 **it should include**
 
-1. what your business vision is
+1. what your business vision and value are
 2. what your legal structure is
 3. what products and services do you provide 
 4. who your customers are

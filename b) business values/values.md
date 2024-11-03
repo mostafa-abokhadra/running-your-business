@@ -43,3 +43,6 @@
 5. **Translate your business values into a set of actions**
     - turning the values into recognisable actions and behaviours that can be measured and monitored 
     - it can be **customer-focused** or **internally-focused**
+
+### Ref
+- read [this](https://www.business.qld.gov.au/running-business/planning/values)
