@@ -1,9 +1,19 @@
 # market analysis
+it is a methodology used to gain reliable data about **specific markets** and **target customers**.
 
-reputation in the market
-your sales figures
+### analysis of our own business
 
-it is a methodology used to gain reliable data about specific markets and target customers.
+- using past performance and sales
+- reputation in the market
+- why customer buying form you (buyting benefits)
+- public awareness and perceptions your brand and offerings.
+- Understand public views regarding your CEO
+- Measure the satisfaction levels of you own customers
+- gather suggestions for service improvements.
+- Analyze audience and student opinions on pricing
+- What features do your products lack that users are asking for
+
+### market analysis
 
 - past and current market conditions (overall industry)
 - market attributes
@@ -26,7 +36,7 @@ it is a methodology used to gain reliable data about specific markets and target
 **research methods**
 1. primary methods
     1. customers surveys, feedback and interviews 
-        Remember that you are conducting customer research, so make sure the people you choose represent your ideal customer profile that you previously identified
+        - Remember that you are conducting customer research, so make sure the people you choose represent your ideal customer profile that you previously identified
     2. focus group testing a new product
     3. expos معارض and prospective customers
     4. online reviews in your website and social media
@@ -34,7 +44,6 @@ it is a methodology used to gain reliable data about specific markets and target
     6. online polls استطلاعات راي 
 2. secondary methods
     1. reviewing reports, industry journals and sales, and gov info (Industry report databases) 
-2. analysis of our own business, using past performance in sales, goods returned, and repeat business
 3. researching industry and market trend information (google trends)
 
 
@@ -43,6 +52,7 @@ it is a methodology used to gain reliable data about specific markets and target
 2. why they make their decisions
 
 ### Set your objectives, collect data and analyse
+
 1. **Decide on the specific improvement or growth area**
 2. **set your research objectives**
     - understand competitors in the market and how you can add value
@@ -54,7 +64,10 @@ it is a methodology used to gain reliable data about specific markets and target
     - what does it tell you about the specific areas you are focussing on?
 7. **Identify and implement the changes you need to make**
 
-### 
+
 **Market description**
 
 e.g. local/regional/national market, target customers, seasonal influences, price
+
+### Industry description and outlook
+Having accurate information about your industry, and any current and upcoming market trends, will help you to capitalise on business opportunities.
