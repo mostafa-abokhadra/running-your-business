@@ -14,5 +14,4 @@ it will inspire and create a sense of optimism about the business for the future
 3. insure it clear, and concise
 
 ### ref
-
-    read [this](https://www.business.qld.gov.au/running-business/planning/vision)
+- read [this](https://www.business.qld.gov.au/running-business/planning/vision)
