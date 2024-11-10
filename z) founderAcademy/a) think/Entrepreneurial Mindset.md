@@ -20,3 +20,7 @@ Many people focus on **WHAT** they do, some on **HOW** to accomplish tasks, but 
 - Why did you choose to become an entrepreneur?
 - What are those driving factors that have you doing hard things?
 - What is your WHY?
+
+> people don’t buy what you create or do; they buy WHY you do it. "simon sinek"
+
+watch [this](https://youtu.be/u4ZoJKF_VuA) ted talk of simon sinek
