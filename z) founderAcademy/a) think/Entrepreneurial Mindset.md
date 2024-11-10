@@ -10,4 +10,13 @@
 - how can you contibute to society and make money out of it
 
 ## Let’s talk about your WHY
+Many people focus on **WHAT** they do, some on **HOW** to accomplish tasks, but few consider the **WHY**
 
+> [!IMPORTANT]
+> Before embarking on your entrepreneurial journey, it’s essential to pause and deeply consider your WHY.
+
+**ask yourself**
+
+- Why did you choose to become an entrepreneur?
+- What are those driving factors that have you doing hard things?
+- What is your WHY?
