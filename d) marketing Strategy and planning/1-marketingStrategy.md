@@ -59,3 +59,12 @@ look to it in terms of the current situation and the ideal future
 - how your business model meets the needs and wants of customers.
 
 ## identify priority marketing programs
+Marketing programs are specific initiatives or campaigns designed to achieve the goals outlined in a company's overall marketing strategy. They involve a set of coordinated activities that target key objectives such as increasing brand awareness, generating leads, or boosting sales.
+
+# checklist
+1. i know my business and the current market.
+2. I've set clear, realistic, and measurable marketing objectives.
+3. I've defined meaningful target segments.
+4. I've defined my business's distinctive brand.
+5. I've completed an analysis of my competitors.
+6. I've identified the marketing programs I need to focus on.
