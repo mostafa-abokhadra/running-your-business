@@ -42,4 +42,20 @@ use the framework **STP** e:i segmentation, targeting, positioning
 ![](./competitorsProfile2.png)
 
 ## define you brand positioning
+- Brand positioning is much more than just your name or logo. This is your business purpose.
+The ambition is to build a **distinctive brand**. This is about
+1. what you want to be known for
+2. want to own in the hearts and minds of your customers.
+
+**define your value proposition**
+
+a statement of the benefits you provide in exchange for payment
+
+look to it in terms of the current situation and the ideal future
+
+**It explains**:
+
+- the promise of value you will consistently deliver to customers
+- how your business model meets the needs and wants of customers.
+
 ## identify priority marketing programs
