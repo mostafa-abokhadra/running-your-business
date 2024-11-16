@@ -5,3 +5,12 @@ it is to deliver customer value to attracting new customers and keeping existing
 - coming up with **solutions** to meet these needs.
 
 you'll need a strong understanding of your **brand positioning** and the **needs of your customers** to make marketing successful
+
+### 7Ps
+1. product
+2. price
+3. place
+4. promotion
+5. process
+6. people
+7. physical evidence
