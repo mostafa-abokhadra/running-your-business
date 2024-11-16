@@ -2,7 +2,9 @@
 
 ## know your current situation
 - this step is known from the marketing research process, it all about getting insight about your **industry** and **customers** by gathering data using different resources and methods like documentations, roports, surveys, interviews, etc..
+- **internal** and **external** review of the business
 - knowing your business **SWOT**
+
 ## set your marketing objectives
 1. it should meet the **SMART** criteria e:i specific, measurable, acheivable, relevant, time
 2. it should covers different areas including 
@@ -21,6 +23,7 @@
     - social media engagement
 > [!NOTE]
 > Review and adjust your marketing objectives based on your progress.
+
 ## define your target customer segments
 use the framework **STP** e:i segmentation, targeting, positioning
 
