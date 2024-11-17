@@ -22,3 +22,13 @@
 
     - choose you domain extension
     - buy your domain name
+
+2. **Set up an email address to match your domain name**
+3. **host your website**
+4. **design your website**
+    **think about**:
+
+    - the information you want to give your customers
+    - what you want them to do on your site
+    - the questions they'll have
+    - the order they'll be doing things in.
