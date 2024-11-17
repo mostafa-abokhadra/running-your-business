@@ -62,3 +62,11 @@ review of your current business status to help identify future opportunities.
     - **promise**: your commitment to everyone involved with your business
     - **personality**: your voice, the tone, manner and style that represents your business
     - **proof**: the emotional and practical benefits your business delivers.
+
+    ![](./brandBlueprint.png)
+
+3. bring you brand to life
+    - brand consistency: what your brand says and does should be the same
+        - **communication**: how your brand is presented across all channels
+        - **culture**: your internal business values and employee behaviours
+        - **experience**: every face-to-face, telephone and online interaction.
