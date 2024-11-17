@@ -55,3 +55,10 @@ To become distinctive, **your business brand must be:**
 
 1. review the **3Cs** of your brand (company, customers, competitors)
 review of your current business status to help identify future opportunities.
+2. define your brand postitioning to create a 1-page brand strategy
+    - **vision**: the long-term ambition you have for your business
+    - **purpose**: the 'why' of your business, the main reason (not financial) your business exists
+    - **values**: the behaviour that your business supports and encourages
+    - **promise**: your commitment to everyone involved with your business
+    - **personality**: your voice, the tone, manner and style that represents your business
+    - **proof**: the emotional and practical benefits your business delivers.
