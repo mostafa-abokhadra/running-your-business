@@ -46,3 +46,12 @@ if you have a brand already, it is helpful to do **brand audit** to evaluate you
 - highlight and prioritise areas for improvement
 - generate ideas based on customer insights
 - add initiatives into your marketing action plan.
+
+# Develop your business brand
+To become distinctive, **your business brand must be:**
+- **salient**بارز : your brand must be front of mind when customers are ready to act
+- **different**: your brand must continue to stand out from your competitors
+- **meaningful**: your brand must be understood by everyone involved.
+
+1. review the **3Cs** of your brand (company, customers, competitors)
+review of your current business status to help identify future opportunities.
