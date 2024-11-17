@@ -70,3 +70,12 @@ review of your current business status to help identify future opportunities.
         - **communication**: how your brand is presented across all channels
         - **culture**: your internal business values and employee behaviours
         - **experience**: every face-to-face, telephone and online interaction.
+    - brand identity
+        - is the external presentation of your brand. This identity appeals to the senses. It's what your customers see, hear, touch and even smell. It's mostly physical. It consists of elements such as
+            - logo
+            - business name
+            - tagline
+            - color
+            - fonts
+            - graphics
+            - images.
